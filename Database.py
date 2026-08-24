@@ -2,10 +2,10 @@ from sqlalchemy import create_engine, URL
 from sqlalchemy.orm import sessionmaker, declarative_base
 from sqlalchemy import Column, Integer, String, ForeignKey
 
-SERVER = "10.1.101.141"
-DATABASE = "jayden"
-USERNAME = "jayden"
-PASSWORD = "JWre1234"
+SERVER = 
+DATABASE = 
+USERNAME = 
+PASSWORD = 
 
 
 
